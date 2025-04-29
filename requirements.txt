@@ -1,0 +1,9 @@
+requests
+httpx
+anyio
+httpx-sse
+pydantic
+git+https://github.com/modelcontextprotocol/python-sdk.git
+crewai[tools]>=0.5.0
+mcpadapt[crewAI,langchain]>=0.1.3 
+nest_asyncio
