@@ -137,7 +137,7 @@ The SDK supports multiple Frontegg environments:
 from frontegg_ai_python_sdk import Environment
 
 # Available environments
-Environment.EU # European servers: 'eu.frontegg.com'
+Environment.EU # European servers: 'frontegg.com'
 Environment.US # US servers: 'us.frontegg.com'
 Environment.CA # Canadian servers: 'ca.frontegg.com'
 Environment.AU # Australian servers: 'au.frontegg.com'
